@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "destinations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Dest_name": "Half Assin", "Dest_type": "Local Community" }, "geometry": { "type": "Point", "coordinates": [ -2.822540727304814, 5.051276375215345 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Dest_name": "Nkawkaw", "Dest_type": "Local community" }, "geometry": { "type": "Point", "coordinates": [ -0.83602298021908, 6.461991876768982 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Dest_name": "Tamale", "Dest_type": "Local Community" }, "geometry": { "type": "Point", "coordinates": [ -0.864813092495685, 9.326608048291163 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Dest_name": "Kejetia Market", "Dest_type": "Urban_Market" }, "geometry": { "type": "Point", "coordinates": [ -1.610029839877299, 6.663252464417177 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Dest_name": "Danso Roadside Market", "Dest_type": "Roadside_Market" }, "geometry": { "type": "Point", "coordinates": [ -1.965871747852759, 7.449850366257667 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Dest_name": "Makola Market", "Dest_type": "Urban_Market" }, "geometry": { "type": "Point", "coordinates": [ 0.019351528220859, 5.670640826380366 ] } }
+]
+}

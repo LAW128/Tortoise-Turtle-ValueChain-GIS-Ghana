@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "origins mean coords",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "MEAN_X": -2.88, "MEAN_Y": 5.051, "Location": "Half-Assin", "origins_stats_fid": 1, "origins_stats_count": 15, "origins_stats_unique": 7, "origins_stats_min": 0.0, "origins_stats_max": 75.0, "origins_stats_range": 75.0, "origins_stats_sum": 522.5, "origins_stats_mean": 34.833333333333336, "origins_stats_median": 25.5, "origins_stats_stddev": 27.249872578703112, "origins_stats_minority": 0.0, "origins_stats_majority": 75.0, "origins_stats_q1": 11.75, "origins_stats_q3": 57.75, "origins_stats_iqr": 46.0 }, "geometry": { "type": "Point", "coordinates": [ -2.88, 5.051 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "MEAN_X": -0.766, "MEAN_Y": 6.551, "Location": "Nkawkaw", "origins_stats_fid": 2, "origins_stats_count": 19, "origins_stats_unique": 4, "origins_stats_min": 0.0, "origins_stats_max": 15.5, "origins_stats_range": 15.5, "origins_stats_sum": 71.5, "origins_stats_mean": 3.763157894736842, "origins_stats_median": 3.0, "origins_stats_stddev": 3.0709522826702584, "origins_stats_minority": 0.0, "origins_stats_majority": 3.0, "origins_stats_q1": 3.0, "origins_stats_q3": 3.0, "origins_stats_iqr": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -0.766, 6.551 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "MEAN_X": -0.842, "MEAN_Y": 9.404, "Location": "Tamale", "origins_stats_fid": 3, "origins_stats_count": 17, "origins_stats_unique": 6, "origins_stats_min": 8.0, "origins_stats_max": 400.5, "origins_stats_range": 392.5, "origins_stats_sum": 2687.0, "origins_stats_mean": 158.05882352941177, "origins_stats_median": 150.0, "origins_stats_stddev": 112.25940054347618, "origins_stats_minority": 8.0, "origins_stats_majority": 75.0, "origins_stats_q1": 75.0, "origins_stats_q3": 250.5, "origins_stats_iqr": 175.5 }, "geometry": { "type": "Point", "coordinates": [ -0.842, 9.404 ] } }
+]
+}
